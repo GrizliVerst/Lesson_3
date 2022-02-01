@@ -66,6 +66,6 @@ p.text.paragraph.align span{
 .tools .tools-list{
     color: sienna;
 }
-.text.manual > p {
+.text.paragraph + p {
     color: tomato;
 }
