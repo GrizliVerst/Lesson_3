@@ -24,14 +24,11 @@ div.text{
 .point{
     color: darkturquoise;
 }
-.point.ceiling{
+[class*=__ceiling] {
     color: forestgreen;
 }
 #floor{
     color: greenyellow;
-}
-.tools{
-    color: hotpink;
 }
 h3{
     color: indigo;
@@ -65,4 +62,10 @@ p.text.paragraph.align span{
 }
 #tobecontinued{
     color: red;
+}
+.tools .tools-list{
+    color: sienna;
+}
+.text.manual > p {
+    color: tomato;
 }
