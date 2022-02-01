@@ -1,0 +1,68 @@
+@import "null.css";
+
+#section{
+    color: brown;
+}
+.text{
+    color: chartreuse;
+}
+div.text{
+    color: maroon;
+}
+.manual{
+    color: chocolate;
+}
+.text.paragraph{
+    color: cornflowerblue;
+}
+.list{
+    color: darkblue;
+}
+.list2{
+    color: darkmagenta;
+}
+.point{
+    color: darkturquoise;
+}
+.point.ceiling{
+    color: forestgreen;
+}
+#floor{
+    color: greenyellow;
+}
+.tools{
+    color: hotpink;
+}
+h3{
+    color: indigo;
+}
+.material{
+    color: khaki;
+}
+#correction{
+    color: lightcoral;
+}
+.text.paragraph.align{
+    color: lightseagreen;
+}
+.list.stage{
+    color: mediumaquamarine;
+}
+li.point1{
+    color: midnightblue;
+}
+li.point2{
+    color: orangered;
+}
+p span{
+    color: rgb(43, 255, 0);
+}
+p.text.paragraph span{
+    color: palevioletred;
+}
+p.text.paragraph.align span{
+    color: rebeccapurple;
+}
+#tobecontinued{
+    color: red;
+}
